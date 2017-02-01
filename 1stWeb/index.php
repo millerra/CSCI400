@@ -4,10 +4,8 @@
 </head>
 <body>
 <h1>HELLO!</h1>
-<p>
-<style>
 <link rel = "stylesheet" type = "text/css" href = "style.css">
-</style>
+<p>
 <?php 
 $result = "";
 class calculator

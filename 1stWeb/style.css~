@@ -2,7 +2,8 @@
 {
 font-family: 'Georgia';
 }
-body 
+body
 {
-background-color: yellow;
+background-color: red;
+
 }
